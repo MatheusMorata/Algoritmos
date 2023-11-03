@@ -1,3 +1,4 @@
+-- Este é o algoritmo de busca binária apresentado no livro
 function BuscaBinaria(lista, item)
     baixo = 1
     alto = #lista
